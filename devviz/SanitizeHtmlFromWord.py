@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 # 2018-09-23
 # Limpia HTML generado por Word, para poder usarlo posteriormente en armado de plantilla html+campos formulario (gravity forms)
+# Repo: wichert / htmllaundry
 import io
 from htmllaundry import sanitize
 from htmllaundry.cleaners import CommentCleaner
